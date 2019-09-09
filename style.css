@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+.side-container {
+    width: 50%;
+    float: left;
+}
